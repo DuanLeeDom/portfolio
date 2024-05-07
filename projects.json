@@ -1,7 +1,7 @@
 [
     {
       "name": "Calculadora | Mint",
-      "image": "./assets/Calculadora-Delphi-transparente.png",
+      "image": "./assets/Calculadora-Delphi.png",
       "tags": ["Lazarus", "Pascal", "Executável", "Mint"],
       "link": "https://github.com/DuanLeeDom/Calculadora-Delphi"
     },
