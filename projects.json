@@ -1,19 +1,19 @@
 [
     {
       "name": "Calculadora | Mint",
-      "image": "./assets/Calculadora-Delphi.png",
-      "tags": ["Lazarus", "Pascal", "Executável", "Mint"],
+      "image": "./assets/Projetos/Calculadora-Delphi.png",
+      "tags": ["Pascal", "Lazarus", "Executável"],
       "link": "https://github.com/DuanLeeDom/Calculadora-Delphi"
     },
       {
-      "name": "Windows Update and Options",
-      "image": "./assets/Windows-Update-and-Options.png",
-      "tags": ["BAT", "Windows"],
+      "name": "Windows Update",
+      "image": "./assets/Projetos/Windows-Update-and-Options.png",
+      "tags": [".BAT", "Windows"],
       "link": "https://github.com/DuanLeeDom/Windows-Update-and-Options"
     },
       {
-      "name": "Thumbnail Generator",
-      "image": "./assets/Thumbnail-Generator.png",
+      "name": "Thumbnail Generator [BETA]",
+      "image": "./assets/Projetos/Thumbnail-Generator.png",
       "tags": ["Python", "Thumbnaill", "Tkinter library"],
       "link": "https://github.com/DuanLeeDom/Creat-Tumbnaill?tab=readme-ov-file#thumbnail-generator"
     }
