@@ -63,3 +63,19 @@ const loadproject = (projects) => {
 }
 
 fetch('./projects.json').then(Response => Response.json()).then(loadproject);
+
+const createStatusIndicator = (status) => {
+    const elemStatus = document.createElement('span');
+    elemStatus.classList.add('project-status'); // Adicione uma classe para estilização
+
+    // Define o texto e a classe com base no status
+    if (status === 'alpha') {
+        elemStatus.innerText = 'Alpha';
+        elemStatus.classList.add('status-alpha'); // Classe para o estilo de alpha
+    } else if (status === 'beta') {
+        elemStatus.innerText = 'Beta';
+        elemStatus.classList.add('status-beta'); // Classe para o estilo de beta
+    }
+
+    return elemStatus;
+}
