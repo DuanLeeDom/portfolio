@@ -1,26 +1,50 @@
 [
-    {
-      "name": "Windows Update",
-      "image": "./assets/Projetos/Windows-Update-and-Options.png",
-      "tags": [".BAT", "Windows"],
-      "link": "https://github.com/DuanLeeDom/Windows-Update-and-Options"
-    },
-    {
-      "name": "Snake Game em Pascal",
-      "image": "./assets/Projetos/Snake-Game-em-Pascal.png",
-      "tags": ["Pascal", "Lazarus", "Game", "Executável"],
-      "link": "https://github.com/DuanLeeDom/snake-game"
-    },
-    {
-      "name": "Calculadora - Mint | [Alpha]",
-      "image": "./assets/Projetos/Calculadora-Delphi.png",
-      "tags": ["Pascal", "Lazarus", "Executável"],
-      "link": "https://github.com/DuanLeeDom/Calculadora-Delphi"
-    },
-    {
-      "name": "Thumbnail Generator | [Alpha]",
-      "image": "./assets/Projetos/Thumbnail-Generator.png",
-      "tags": ["Python", "Thumbnaill", "Tkinter library"],
-      "link": "https://github.com/DuanLeeDom/Creat-Tumbnaill?tab=readme-ov-file#thumbnail-generator"
-    }
-  ]
+  {
+    "name": "Ping Pong - Game",
+    "image": "./assets/Projetos/Pong-1974.png",
+    "tags": ["HTML", "CSS", "JavaScript", "Game"],
+    "link": "https://github.com/DuanLeeDom/pong-1974"
+  },
+  {
+    "name": "Snake Game em Pascal",
+    "image": "./assets/Projetos/pascal-snake-game.png",
+    "tags": ["Pascal", "Lazarus", "Game", "Executável"],
+    "link": "https://github.com/DuanLeeDom/snake-game"
+  },
+  {
+    "name": "Calculadora Científica",
+    "image": "./assets/Projetos/Calculadora-Cientifica.png",
+    "tags": ["Pascal", "Lazarus", "Executável"],
+    "link": "https://github.com/DuanLeeDom/calculadora-cientifica"
+  },
+  {
+    "name": "Calculadora em Pascal",
+    "image": "./assets/Projetos/Calculadora-Delphi.png",
+    "tags": ["Pascal", "Lazarus", "Executável"],
+    "link": "https://github.com/DuanLeeDom/Calculadora-Delphi"
+  },
+  {
+    "name": "Thumbnail Generator",
+    "image": "./assets/Projetos/Thumbnail-Generator.png",
+    "tags": ["Python", "Tkinter", "Thumbnail"],
+    "link": "https://github.com/DuanLeeDom/Creat-Tumbnaill?tab=readme-ov-file#thumbnail-generator"
+  },
+  {
+    "name": "Post Pilot",
+    "image": "./assets/Projetos/Post-Pilot.png",
+    "tags": ["Python", "Tkinter", "Selenium", "Auto Post"],
+    "link": "https://github.com/DuanLeeDom/Creat-Tumbnaill?tab=readme-ov-file#thumbnail-generator"
+  },
+  {
+    "name": "Windows Update",
+    "image": "./assets/Projetos/Windows-Update-and-Options.png",
+    "tags": ["Windows", "Batch"],
+    "link": "https://github.com/DuanLeeDom/Windows-Update-and-Options"
+  },
+  {
+    "name": "Linux Update",
+    "image": "./assets/Projetos/Windows-Update-and-Options.png",
+    "tags": ["Linux", "Shell"],
+    "link": "https://github.com/DuanLeeDom/Linux-Update-and-Options"
+  }
+]
