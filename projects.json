@@ -33,7 +33,7 @@
     "name": "Post Pilot",
     "image": "./assets/Projetos/Post-Pilot.png",
     "tags": ["Python", "Tkinter", "Selenium", "Auto Post"],
-    "link": "https://github.com/DuanLeeDom/Creat-Tumbnaill?tab=readme-ov-file#thumbnail-generator"
+    "link": "https://github.com/DuanLeeDom/postpilot"
   },
   {
     "name": "Windows Update",
